@@ -1,0 +1,7 @@
+.backcolor{
+    width:100%;
+    min-height: 100vh;
+    background: url('../../assests/image1.jpg');
+    background-size: cover;
+    color: darkred;
+}
